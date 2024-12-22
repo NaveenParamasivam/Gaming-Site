@@ -52,5 +52,3 @@ This project is a React-based clone of the [Zentry](https://zentry.com/) website
 - Open the application in your browser.
 - Navigate through the pages to explore the Zentry clone.
 - Interact with the components and test the responsiveness.
-
-```
